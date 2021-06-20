@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b6d18"],{"1f7d":function(e,n,s){"use strict";s.r(n);var t=function(){var e=this,n=e.$createElement,s=e._self._c||n;return s("p",[e._v("sesion empresa")])},u=[],a={name:"BusinessLogin"},c=a,i=s("2877"),o=Object(i["a"])(c,t,u,!1,null,"e846e202",null);n["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d0b6d18.9140a3d9.js.map
